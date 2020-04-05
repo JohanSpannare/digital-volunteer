@@ -1,0 +1,17 @@
+{
+    "serviceId":"fa084ba3-598c-41dc-a51e-550d4593f0b1",
+    "requiredSkills":[
+    ],
+    "descriptions":[
+        {
+            "language":"en",
+            "descriptions":"Other",
+        }
+    ],
+    "deliveryTypes":[
+        {"leaveAtDoor":true},
+        {"faceToFace":true}
+    ]
+
+
+}

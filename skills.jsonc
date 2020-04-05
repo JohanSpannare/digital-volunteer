@@ -1,0 +1,48 @@
+
+[
+    {
+        "skillId":"7ca393bf-38d1-43aa-a495-085b09ec4acb",
+        "description":[
+            {
+                "language":"en",
+                "volunteerDescription":"Do you have a car and can drive?",
+            }
+        ],
+    },
+    {
+        "skillId":"fe9f4082-44b2-40c6-a0c5-dfa3b119af0c",
+        "description":[
+            {
+                "language":"en",
+                "volunteerDescription":"Can you pick up stuff and leave it?",
+            }
+        ],
+    },
+    {
+        "skillId":"65a84659-acb5-468e-870b-f45cb323afb2",
+        "description":[
+            {
+                "language":"en",
+                "volunteerDescription":"Can you do shopping?",
+            }
+        ],
+    },
+    {
+        "skillId":"03886a0e-fa1c-4057-9e13-7cf322d5215c",
+        "description":[
+            {
+                "language":"en",
+                "volunteerDescription":"Will you travel with bike or walk?",
+            }
+        ],
+    },
+    {
+        "skillId":"264cfe83-c6ec-45dd-b8dc-6d82a16d4d34",
+        "description":[
+            {
+                "language":"en",
+                "volunteerDescription":"Are you immune?",
+            }
+        ],
+    }
+]

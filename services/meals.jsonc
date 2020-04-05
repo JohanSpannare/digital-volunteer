@@ -1,0 +1,19 @@
+{
+    "serviceId":"28643d7a-6d8f-4de3-9ff2-f489e4e303dc",
+    "requiredSkills":[
+        {
+            "skillId":"65a84659-acb5-468e-870b-f45cb323afb2" //"Can you do shopping?"
+        }
+    ],
+    "descriptions":[
+        {
+            "language":"en",
+            "descriptions":"Meals",
+        }
+    ],
+    "deliveryTypes":[
+        {"leaveAtDoor":true}
+    ]
+
+
+}

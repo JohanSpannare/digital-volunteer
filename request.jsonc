@@ -1,0 +1,17 @@
+{
+    "requestId":"4f96c73a-da46-4dce-9046-91b9289005df",
+    "necessitousId": "9c9c4b0e-2fb9-45d5-a9cd-9f7581e2c616",
+    "timeOfCreation":"2020-04-12T20:17:46.384Z",
+    "location":"59.230409,15.249480",
+    "message":"Need help with picking medicines at the drugstore",
+    "service":{
+        "serviceId":"serviceId",
+        "deliveryTimes":[
+            {"timespan":"12-15"},
+            {"timespan":"17-21"}
+        ],
+        "payment":{
+            "type":""
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "serviceId":"c43c8d65-1a89-466a-8d32-f9a1d8f67321",
+    "requiredSkills":[
+        {
+            "skillId":"65a84659-acb5-468e-870b-f45cb323afb2" //Can you do shopping?
+        },
+        {
+            "skillId":"7ca393bf-38d1-43aa-a495-085b09ec4acb" //Do you have a car and can drive?
+        }
+    ],
+    "descriptions":[
+        {
+            "language":"en",
+            "descriptions":"Groceries",
+        }
+    ],
+    "deliveryTypes":[
+        {"leaveAtDoor":true}
+    ]
+
+}

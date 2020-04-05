@@ -1,0 +1,19 @@
+{
+    "serviceId":"d39beeea-4e80-4276-90fa-8152b2653774",
+    "requiredSkills":[
+        {
+            "skillId":"fe9f4082-44b2-40c6-a0c5-dfa3b119af0c" //Can you pick up stuff and leave it?
+        }
+    ],
+    "descriptions":[
+        {
+            "language":"en",
+            "descriptions":"Medicine",
+        }
+    ],
+    "deliveryTypes":[
+        {"faceToFace":true}
+    ]
+
+
+}

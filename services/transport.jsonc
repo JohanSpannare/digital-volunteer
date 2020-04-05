@@ -1,0 +1,17 @@
+{
+    "serviceId":"23c1d96d-5484-486b-825c-3b8827ac0160",
+    "requiredSkills":[
+        {
+            "skillId":"7ca393bf-38d1-43aa-a495-085b09ec4acb" //Do you have  a car and can drive?
+        },
+        {
+            "skillId":"264cfe83-c6ec-45dd-b8dc-6d82a16d4d34" //Are you immune?
+        }
+    ],
+    "descriptions":[
+        {
+            "language":"en",
+            "descriptions":"Transport",
+        }
+    ]
+}
